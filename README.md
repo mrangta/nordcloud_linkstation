@@ -32,3 +32,12 @@ or :
 (15,10)​,
 (18, 18)​
 ```
+
+## Run Solution
+
+Run the solution.js using command `node solution.js`
+
+## Run tests
+
+Prerequisite install jest using command `npm install --save-dev jest`
+Run the tests using command `npm test`
